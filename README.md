@@ -9,13 +9,13 @@ To write a python program to find the inverse of a matrix
 ### Step 2: 
 ### Step 3: 
 ### Step 4: 
-<img width="1920" height="1020" alt="2025-09-18 (4)" src="https://github.com/user-attachments/assets/53b379e7-04c8-4278-b54f-1bfc55d57ab5" />
 
 ## Program:
 ##devoloped by :Dhanush Rajan.T
-##ref.no.25013743
+##ref.no.212225230052
 
-## Output:
+## Output:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6cfe8c69-9714-4e32-8e0b-256b22b0ceb4" />
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
