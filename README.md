@@ -21,15 +21,16 @@ To write a python program to find the inverse of a matrix
 ## Program:
 ```
 #Program to find the inverse of a matrix.
-#Developed by: Dhanush Rajan.T
-#RegisterNumber:25013743
+#Developed by:kamaleshkumar k
+#RegisterNumber:212225040164
 import numpy as np
 A=([2,1,1],[1,1,1],[1,-1,2])
 A_inv=np.linalg.inv(A)
 print(A_inv)
 ```
 
-## Output:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6cfe8c69-9714-4e32-8e0b-256b22b0ceb4" />
+## Output:<img width="1672" height="941" alt="ChatGPT Image Jun 3, 2026, 07_57_05 PM" src="https://github.com/user-attachments/assets/cea2a996-5f12-4e81-ade8-a1137e20cc8d" />
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
